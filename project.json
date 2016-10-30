@@ -1,0 +1,98 @@
+{
+    "title": "Árinni kennir illur ræðari",
+    "url": "http://mordgata.trickvi.is",
+    "description": "Jólaleg morðgáta",
+    "socialimg": "http://mordgata.trickvi.is/assets/img/village_small.jpg",
+    "characters": [
+	{
+	    "name": "Margrét Þvottsér",
+	    "title": "Blómasali",
+	    "description": "",
+	    "img": null
+	},
+	{
+	    "name": "Stefán Hofkyns",
+	    "title": "Vörubílstjóri",
+	    "description": "",
+	    "img": null
+	},
+	{
+	    "name": "Geir Hólmann",
+	    "title": "Bakari",
+	    "description": "",
+	    "img": null
+	},
+	{
+	    "name": "Vilhjálmur Svakaspor",
+	    "title": "Bóndi",
+	    "description": "",
+	    "img": null
+	},
+	{
+	    "name": "Kata Vindslit",
+	    "title": "Kráareigandi",
+	    "description": "",
+	    "img": null
+	},
+	{
+	    "name": "Agata Kristný",
+	    "title": "Blaðamaður",
+	    "description": "",
+	    "img": null
+	},
+	{
+	    "name": "Jón Straummeir",
+	    "title": "Rafvirki",
+	    "description": "",
+	    "img": null
+	},
+	{
+	    "name": "Karl Babbnes",
+	    "title": "Grunnskólakennari",
+	    "description": "",
+	    "img": null
+	},
+	{
+	    "name": "Júlía Andrésar",
+	    "title": "Tónlistarkennari",
+	    "description": "",
+	    "img": null
+	},
+	{
+	    "name": "Pétur Tánöshendi",
+	    "title": "Læknaritari",
+	    "description": "",
+	    "img": null
+	},
+	{
+	    "name": "Eiríkur Aðall",
+	    "title": "Lyfsali",
+	    "description": "",
+	    "img": null
+	},
+	{
+	    "name": "Flóra Náttgalla",
+	    "title": "Læknir",
+	    "description": "",
+	    "img": null
+	},
+	{
+	    "name": "Elísabet Talúr",
+	    "title": "Verslunareigandi",
+	    "description": "",
+	    "img": null
+	},
+	{
+	    "name": "Rónald Dal",
+	    "title": "Eftirlaunaþegi",
+	    "description": "",
+	    "img": null
+	},
+	{
+	    "name": "Ríkharður Brjánsson",
+	    "title": "Fasteignasali",
+	    "description": "",
+	    "img": null
+	}
+    ]
+}
