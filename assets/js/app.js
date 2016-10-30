@@ -1,0 +1,1 @@
+var scrollTo=function(a){var b=$(a);b=b.length?b:$("[name="+a.slice(1)+"]"),b.length&&$("html, body").animate({scrollTop:b.offset().top},1e3)};$(function(){$('a[href*="#"]:not([href="#"])').click(function(){return location.pathname.replace(/^\//,"")==this.pathname.replace(/^\//,"")&&location.hostname==this.hostname&&scrollTo(this.hash),!1})});

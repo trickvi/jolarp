@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css?family=Abhaya+Libre');
+html,
+body,
+main {
+  height: 100%;
+  font-family: 'Abhaya Libre', serif;
+  font-size: 22px;
+}
+.bg-fixed {
+  min-height: 100%;
+  background-size: contain;
+  -webkit-background-size: contain;
+  -moz-background-size: contain;
+  -o-background-size: contain;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+.bg-scroll {
+  min-height: 100%;
+}
+#welcome {
+  position: relative;
+  color: #3c3c3c;
+}
+#welcome .title {
+  position: absolute;
+  top: 4%;
+  left: 8%;
+  text-align: left;
+}
+#welcome .title h1 {
+  text-transform: uppercase;
+  text-shadow: 2px 2px #fdfdfd;
+  font-weight: bold;
+  margin-bottom: 0px;
+}
+#welcome .title p {
+  font-size: 32px;
+  line-height: 32px;
+  margin-left: 10px;
+  text-shadow: 1px 1px #fdfdfd;
+  color: #222222;
+}
+@media (max-width: 767px) {
+  #welcome {
+    background: #ff0033;
+  }
+  #welcome .title h1 {
+    padding-top: 50px;
+    text-align: center;
+    text-shadow: none;
+    font-size: 32px;
+  }
+  #welcome .title p {
+    text-align: center;
+    text-shadow: none;
+  }
+  .character {
+    text-align: center;
+  }
+}
+@media (min-width: 768px) and (max-width: 1999px) {
+  #welcome {
+    background: url('../img/village_small.jpg');
+  }
+  #welcome h1 {
+    font-size: 42px;
+  }
+}
+@media (min-width: 2000px) {
+  #welcome {
+    background: url('../img/village_large.jpg');
+  }
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+  #welcome h1 {
+    font-size: 64px;
+  }
+}
+@media (min-width: 1200px) {
+  #welcome h1 {
+    font-size: 82px;
+  }
+}
+.next {
+  position: absolute;
+  height: 200px;
+  bottom: 20px;
+  left: 0px;
+  width: 100%;
+}
+.next a {
+  display: block;
+  width: 150px;
+  bottom: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+#intro h2 {
+  padding-top: 42%;
+}
+#characters .character {
+  min-height: 200px;
+  margin-bottom: 50px;
+}
+#characters .character .title {
+  margin-top: -10px;
+}
